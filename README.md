@@ -1,4 +1,4 @@
-# NLP Based SMS Spam Detection
+# NLP Based SMS Spam Detection System
 
 ## Project Overview
 
