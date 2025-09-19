@@ -1,4 +1,4 @@
-# NLP Based SMS Spam Detection System
+# A Comparative Study of Classification Algorithms for SMS Spam Detection in the Telecommunication Sector
 
 ## Project Overview
 
