@@ -1,4 +1,4 @@
-# A Comparative Study of Classification Algorithms for SMS Spam Detection in the Telecommunication Sector
+# Multi-Model Comparison for SMS Spam Classification
 
 ## Project Overview
 
